@@ -1,3 +1,12 @@
+# Teaching Internet Usage
+
+This document explores teaching methodologies for the next generation to effectively use the internet. It emphasizes prompting AI, reading, investigating, and understanding.
+
+## Related Documents
+
+- **202504161157.md**: Discusses the next breakthrough in the internet, focusing on user interface design and seamless information retrieval.
+- **MartialArtsTreatise.md**: A comprehensive treatise on martial arts, integrating philosophies and technical refinements.
+
 # Teaching the Next Generation to Use the Internet
 
 Teaching my daughter how to use the internet involves more than just giving her access to a browser. It means empowering her to:
