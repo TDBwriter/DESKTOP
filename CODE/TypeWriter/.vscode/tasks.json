@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Test",
+            "type": "shell",
+            "command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "HelloWorld\\tests\\test_hello_world.cpp", // Test file
+                "HelloWorld\\src\\hello_world.cpp",       // Implementation file
+                "-o",
+                "HelloWorld\\tests\\test_hello_world.exe" // Output executable
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Task to build the test executable"
+        }
+    ]
+}
