@@ -1,3 +1,30 @@
+# HelloWorld
+
+## Overview
+HelloWorld is a simple project designed to demonstrate basic programming concepts. It includes a main program, header files, and test cases.
+
+## Current Workspace Structure
+```
+HelloWorld/
+	doctest.h
+	HelloWorld.cpp
+	HelloWorld.exe
+	HelloWorld.h
+	README.md
+	test_HelloWorld.cpp
+	test_HelloWorld.exe
+```
+
+## Features
+- Basic "Hello, World!" program.
+- Includes test cases for validation.
+- Demonstrates the use of header files and modular programming.
+
+## How to Run
+1. Compile the `HelloWorld.cpp` file.
+2. Run the resulting executable to see the output.
+3. Use `test_HelloWorld.cpp` to validate the program's functionality.
+
 # Travis: A Classic Eliza-Style Chatbot in C++
 
 ## Project Overview
