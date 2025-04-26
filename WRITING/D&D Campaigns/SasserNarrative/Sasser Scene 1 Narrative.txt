@@ -1,0 +1,25 @@
+Sasser Scene 1 Narrative
+=======================
+
+### Opening: Chaos on Neverwinter Docks
+
+The salt-streaked air of Neverwinter’s docks hums with dusk’s chaos as you, Sasser, perch atop a ship’s mast, wings folded against the chill. Your Aarakocra skycraft armor—bone-studded, feather-woven—blends with the rigging, rendering you near-invisible (Stealth 18). Below, the quay teems with sailors, crates, and the clink of coin, but your sharp eyes (Perception 16) lock onto a grim scene: Gundren Rockseeker, a stout dwarf in travel-worn leathers, is cornered by three burly dock workers, their cudgels raised. A cloaked figure, a dragon cult acolyte, hisses commands, their robe emblazoned with a draconic sigil. Your Nature 14 recognizes the cult’s obsession with dragons, likely tied to rumors of a white beast stirring the Phandalin wilds.
+
+Gundren clutches a satchel, his eyes darting as the acolyte snarls, “Hand over the map, dwarf, or we feed you to the harbor!” Your Insight 15 catches the acolyte’s fervor—they seek Gundren’s map to Wave Echo Cave, believing its magic can serve their dragon, not the Black Spider’s schemes. The workers, hired muscle, hesitate, their loyalty bought but shaky. Blood trickles from Gundren’s brow, but he’s defiant, stalling for time (Survival 12 notes fresh scuff marks—Gundren fought back, dragging the fight to the open dock).
+
+From your perch, the scene is a puzzle: intervene to save Gundren, and you may gain an ally and clues to your mentor, whose psychic trail led you here. The cultist’s motives hint at broader dragon activity, a thread to unravel. Your Alert senses confirm no hidden foes, but the crowded dock risks collateral chaos. Options unfold:
+- Engage Directly: Swoop down with Psychic Blades (1d6+3 psychic, Sneak Attack 3d6), targeting the acolyte to disrupt the assault.
+- Stealth Approach: Use Psychic Veil (invisibility, 1/long rest) to slip behind the cultist, pickpocketing the satchel or disarming them (Thieves’ Tools +9).
+- Birdsong Distraction: Sing a piercing birdsong to mimic a guard’s whistle, scattering the workers or drawing attention (Performance +4, via bird song ability).
+- Scout and Signal: Fly to a nearby rooftop, using your bell or string to create a diversion (e.g., toppling crates), giving Gundren a chance to flee.
+- Observe and Follow: Watch, letting the fight play out, then tail the acolyte for cult intel (Stealth +9, Investigation +3).
+
+Your journal rests in its waterproof case, ready to sketch the sigil or Gundren’s face. The quill pendant, its emotional source a shadowed memory, hums faintly, urging action. The docks offer cover—barrels, ropes, a fog rolling in—but time is short.
+
+### Player Response
+[To be completed with your in-character response as Sasser, including actions, dialogue, and narrative prompt to close the scene.]
+
+### Closing Narrative
+[To be completed after your response, incorporating your prompt, resolving outcomes, and presenting 2–4 transition choices for Scene 2, e.g., meeting Sildar in the tavern or pursuing the cultist.]
+
+=======================
