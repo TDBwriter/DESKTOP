@@ -1,0 +1,10 @@
+# This scratch is for developing concepts, story, snippets, vignettes, half-baked plots, and linear concepts for incorporations. To be used for review and first drafting. This is my fucking 3x5 recipe box of Just Shower Thoughts, but I'm totally baked.
+
+# April 27, 2025
+One of the stories that Klaxon investigates uses all the pillars of gameplay. A musical group. It's Sabrina Carpenter's group as they appear on NPR Tiny Desk Concert. She crosses all the narratives of corpo musician as a business, and sexuality, friend groups as a business would be a very interesting gossip columnist story. Could start as candid photojournalism papparazzi shit, and build up to storywriting and narrative generation. Explore the importance of telling and reporting accurately. But also the face of business and friend, heirarchy of needs, and knowing your place in the process. The music industry and the Yakuza follow the same principles of doing business.
+
+In Klaxon the game, we are following two friends, twins who might have been asexual lovers. They get busted doing graffiti on the side of an influencer/journalist place who hires them to research stories for her. Calls them her Bakerstreet Irregulars. She is investigating a corporate cover-up, using a straight as an arrow religious man. The perfect Christian, the perfect stooge. It intersects with her Order of the Open Book mission to prove the freedom of the droid from the manufacturer, or software update driver that checks the time. They can turn it off.
+
+From there the story develops into learning how to take pictures, and they get used in the news story. But the hacker sidestory following the music scene can incorporate a good narrative to work alongside the graffiti and free running. They are able to access parts of the story through their connections to those cultures. 
+
+The Sabrina Carpenter character is the hacker they meet to pick up her program. The programs are encrypted within the album and traded in plain sight. They are everywhere, if you have the key it takes to decrypt, which the owner maintains permissions to.

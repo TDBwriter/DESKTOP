@@ -26,12 +26,12 @@ This document is designed to help track characters in the novel. Each character 
 - **Motivations**: The reasons behind the antagonist's actions and opposition to the protagonist.
 - **Strengths**: Attributes or resources that make the antagonist a formidable opponent.
 - **Weaknesses**: Flaws or limitations that can be exploited by the protagonist.
-- **Character Arc**: Any changes or developments the antagonist undergoes during the story.
+- **Character Arc**: Any changes or developments the antagonist undergoes during the story.S
 - **Key Relationships**: Connections with other characters that shape the antagonist's role.
 - **Notes**: Additional insights or background information about the antagonist.
 
 ### Angel
-- **Name**: [Angel's Name]
+- **Name**: Angelina Jolie aka Acid  Burn
 - **Biography**: A brief background of the angel, including their origins, purpose, and their connection to the protagonist or the story.
 - **Role in Story**: A guiding or protective figure offering wisdom or support to the protagonist.
 - **Physical Description**: Appearance details that emphasize the angelic or ethereal nature.
