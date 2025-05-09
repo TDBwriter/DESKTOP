@@ -1,0 +1,1 @@
+There is a couple, like D' Vana Tendi and Sam Rutherford from Star Trek: Lower Decks, but their relationship needs an alpha male type. They are both lovey dovey perfect match for each other excited about it all like a puppy. But they need a strong decisive character to lead them and keep them busy.
